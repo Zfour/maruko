@@ -1,0 +1,34 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="113CB9D0-1B8E-4759-B808-FD45E0BEF6E0" platform="MtDesktop" defaultW="800" defaultH="600" measureW="1920" measureH="1080" mobileScreenScale="0">
+  <controls controlCount="5">
+    <control controlID="0287EB8B-6C82-4F88-BBFE-A4FD7D338802" controlTypeID="Image" x="4" y="0" w="1920" h="1080" zOrder="0">
+      <URL>C858F86EFBB90B942215A2D1F37F53D2.png</URL>
+    </control>
+    <control controlID="2A548D6D-09DF-40EE-87CC-912E0355EA23" controlTypeID="Image" x="1244" y="354" w="74" h="96" zOrder="1">
+      <rotationAngle>TdOneHundredEighty</rotationAngle>
+      <URL>40E31F11C9C441DB42865176FC095FCF.png</URL>
+    </control>
+    <control controlID="F7D48ABD-899E-461E-BE96-55390C3ACA7E" controlTypeID="Image" x="1150" y="198" w="74" h="96" zOrder="2">
+      <locked>True</locked>
+      <rotationAngle>TdOneHundredEighty</rotationAngle>
+      <URL>40E31F11C9C441DB42865176FC095FCF.png</URL>
+    </control>
+    <control controlID="E3455FD1-363E-48FE-BAEC-8A7C9D163AB2" controlTypeID="Image" x="1023" y="354" w="74" h="96" zOrder="3">
+      <rotationAngle>TdOneHundredEighty</rotationAngle>
+      <URL>40E31F11C9C441DB42865176FC095FCF.png</URL>
+    </control>
+    <control controlID="2C7EF7C9-8B2B-43DA-98AA-9D32721ABD0D" controlTypeID="Image" x="1015" y="346" w="90" h="113" zOrder="4">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="100" varType="4"/>
+      </states>
+      <opacity>0</opacity>
+      <rotationAngle>TdOneHundredEighty</rotationAngle>
+      <URL>D79AEE71EFE2DA12532F87DF022543F5.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>12</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

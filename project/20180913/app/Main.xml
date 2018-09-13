@@ -1,0 +1,68 @@
+﻿<project version="2.9" name="游戏演示" ID="C58D859F-8EDF-4CC3-9520-41A0BF116471">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(800,600)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="98474E8A-9CE9-41E2-8EDE-AD3FA83D2165" expanded="True" code="rqbMX3gPrO" thumbCode="rqbMX3gPrO" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+        <image key="B30E98E5E4A7A6D13D17D5D9DB614227.png"/>
+        <image key="36D7462D043DF4D61FE8F6526CB4D1DF.jpg"/>
+        <image key="2C03065C6D026FE078C33D1078C5FA72.jpg"/>
+        <image key="82694A4806BA199D05C4AF9BA204E2F6.jpg"/>
+        <image key="3ADE7F9842C5475354853775C5B77B41.jpg"/>
+        <image key="0AD338E5370E2066C80483EAF5E287AB.png"/>
+      </images>
+    </page>
+    <page name="游戏开始" ID="02336296-2269-4921-8C91-842843661D49" expanded="True" code="ZAxdgRrn3X" thumbCode="cAR2eBJWY7" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="5E14BFE1717EA809B49152FC25B5CE35.png"/>
+        <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+        <image key="B74B33F5D4DA96FC902505E0ACEE57C9.jpg"/>
+        <image key="B30E98E5E4A7A6D13D17D5D9DB614227.png"/>
+        <image key="36D7462D043DF4D61FE8F6526CB4D1DF.jpg"/>
+        <image key="2C03065C6D026FE078C33D1078C5FA72.jpg"/>
+        <image key="7EF77E496CCD4544A99FE2EC7D2F53E6.jpg"/>
+        <image key="3ADE7F9842C5475354853775C5B77B41.jpg"/>
+        <image key="82694A4806BA199D05C4AF9BA204E2F6.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="页面" ID="113CB9D0-1B8E-4759-B808-FD45E0BEF6E0" expanded="True" code="XPmgvDGW3L" thumbCode="N8PHF572f7" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D79AEE71EFE2DA12532F87DF022543F5.png"/>
+        <image key="C858F86EFBB90B942215A2D1F37F53D2.png"/>
+        <image key="40E31F11C9C441DB42865176FC095FCF.png"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters>
+    <master name="母版" ID="13466027-108F-4581-BCA8-D2FA36B8C4C3" code="rlUaAKzEll" status="psWhite" createDate="1899-12-30 00:00:00">
+      <refPages/>
+      <images>
+        <image key="1A5D3292DAF3CAB634EA15D5E3E35F82.jpg"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="5E14BFE1717EA809B49152FC25B5CE35.png"/>
+    <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+    <image key="B30E98E5E4A7A6D13D17D5D9DB614227.png"/>
+    <image key="B74B33F5D4DA96FC902505E0ACEE57C9.jpg"/>
+    <image key="2C03065C6D026FE078C33D1078C5FA72.jpg"/>
+    <image key="82694A4806BA199D05C4AF9BA204E2F6.jpg"/>
+    <image key="3ADE7F9842C5475354853775C5B77B41.jpg"/>
+    <image key="7EF77E496CCD4544A99FE2EC7D2F53E6.jpg"/>
+    <image key="1A5D3292DAF3CAB634EA15D5E3E35F82.jpg"/>
+    <image key="0AD338E5370E2066C80483EAF5E287AB.png"/>
+    <image key="C858F86EFBB90B942215A2D1F37F53D2.png"/>
+    <image key="D79AEE71EFE2DA12532F87DF022543F5.png"/>
+    <image key="36D7462D043DF4D61FE8F6526CB4D1DF.jpg"/>
+    <image key="40E31F11C9C441DB42865176FC095FCF.png"/>
+  </images>
+</project>

@@ -1,0 +1,79 @@
+<master version="5.3" minAllowVersion="5.3" ID="13466027-108F-4581-BCA8-D2FA36B8C4C3">
+  <controls>
+    <control controlID="8B5862C9-1629-4978-A17D-3DE6BB109F2C" controlTypeID="Master" x="20" y="10" w="800" h="468" measuredW="0" measuredH="0" zOrder="0" masterID="13466027-108F-4581-BCA8-D2FA36B8C4C3">
+      <rotation>0</rotation>
+      <alias/>
+      <canMove>True</canMove>
+      <isCommentCom>False</isCommentCom>
+      <opacity>1</opacity>
+      <status>MsEnabled</status>
+      <isAutoSize>False</isAutoSize>
+      <borderColor>4284900966</borderColor>
+      <borderVisible>True</borderVisible>
+      <color>4294967295</color>
+      <groupChildrenDescriptors>
+        <control controlID="CFF601C8-5219-411D-9457-B893EF54AE52" controlTypeID="Image" x="0" y="0" w="800" h="468" measuredW="150" measuredH="150" zOrder="0">
+          <rotation>0</rotation>
+          <alias/>
+          <canMove>True</canMove>
+          <isCommentCom>False</isCommentCom>
+          <opacity>1</opacity>
+          <status>MsEnabled</status>
+          <isAutoSize>False</isAutoSize>
+          <borderColor>4284900966</borderColor>
+          <borderVisible>False</borderVisible>
+          <color>4294967295</color>
+          <showText>True</showText>
+          <fitMode>fmStretch</fitMode>
+          <flipVertical>False</flipVertical>
+          <flipHorizontal>False</flipHorizontal>
+          <URL>1A5D3292DAF3CAB634EA15D5E3E35F82.jpg</URL>
+          <radiusIsPercent>False</radiusIsPercent>
+          <radius>0</radius>
+          <clipShapeType>SbRectangle</clipShapeType>
+          <rotationAngle>TdZero</rotationAngle>
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{F16D17C9-913B-4205-957D-6FC414961BE7}" coords="(0,0,800,468)"/>
+              <events title=""/>
+            </entry>
+          </interactiveData>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+              <area shape="0" alt="" ID="{3200B791-6A04-484B-B181-398831915C72}" coords="(0,0,800,468)"/>
+            </link>
+          </links>
+          <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+          <horizontalScrollbarShow>False</horizontalScrollbarShow>
+          <verticalScrollbarProgress>0</verticalScrollbarProgress>
+          <verticalScrollbarShow>False</verticalScrollbarShow>
+          <states/>
+          <isShow>True</isShow>
+          <caption>%E5%9B%BE%E7%89%87</caption>
+          <locked>False</locked>
+          <sizeLocked>False</sizeLocked>
+        </control>
+      </groupChildrenDescriptors>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{C16DF969-C6FA-485D-A69C-78D80A602019}" coords="(0,0,800,468)"/>
+          <events title=""/>
+        </entry>
+      </interactiveData>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%BE%E6%8E%A5">
+          <area shape="0" alt="" ID="{D922B42A-9AC3-4CD1-B346-4A5A3437F482}" coords="(0,0,800,468)"/>
+        </link>
+      </links>
+      <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+      <horizontalScrollbarShow>False</horizontalScrollbarShow>
+      <verticalScrollbarProgress>0</verticalScrollbarProgress>
+      <verticalScrollbarShow>False</verticalScrollbarShow>
+      <states/>
+      <isShow>True</isShow>
+      <caption>%E6%AF%8D%E7%89%88</caption>
+      <locked>False</locked>
+      <sizeLocked>False</sizeLocked>
+    </control>
+  </controls>
+</master>
